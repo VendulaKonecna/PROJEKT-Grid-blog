@@ -111,7 +111,7 @@ h1 {
 }
 .tip-vpravo {
 	grid-column: 3 / -1;
-	max-width: 350px;
+	max-width: 400px;
 	align-self: start;
 	justify-self: end;
 	font-size: 16px;
